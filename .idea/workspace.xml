@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53a68f26-34ac-4865-97a3-c2d18e543b09" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="/usr/local/Cellar/maven/3.6.0/libexec" />
+        <option name="userSettingsFile" value="$USER_HOME$/.m2/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Yc8dkkE3KrZKtVqECKgBFbuETM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="LombokPluginEnabledInProject" value="true" />
+    <property name="LombokPluginIS_BUILDER_Enabled" value="true" />
+    <property name="LombokPluginIS_CONSTRUCTOR_Enabled" value="true" />
+    <property name="LombokPluginIS_DELEGATE_Enabled" value="true" />
+    <property name="LombokPluginIS_LOG_Enabled" value="true" />
+    <property name="LombokPluginIS_LOMBOK_VERSION_CHECK_Enabled" value="false" />
+    <property name="LombokPluginIS_MISSING_LOMBOK_CHECK_Enabled" value="true" />
+    <property name="LombokPluginIS_VAL_Enabled" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RunManager" selected="JUnit.SimpleCalculatorDemoTest.test">
+    <configuration name="SimpleCalculatorDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculatorDemo" />
+      <module name="SimpleCalculator" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorDemoTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SimpleCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculatorDemoTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SimpleCalculatorDemoTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SimpleCalculator" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="SimpleCalculatorDemoTest" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SimpleCalculatorDemoTest.test" />
+        <item itemvalue="Application.SimpleCalculatorDemo" />
+        <item itemvalue="JUnit.SimpleCalculatorDemoTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53a68f26-34ac-4865-97a3-c2d18e543b09" name="Default Changelist" comment="" />
+      <created>1583230612003</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583230612003</updated>
+      <workItem from="1583230616650" duration="8206000" />
+      <workItem from="1583246587140" duration="345000" />
+      <workItem from="1583246979344" duration="251000" />
+      <workItem from="1583247459815" duration="2109000" />
+      <workItem from="1583253509540" duration="948000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="478" y="-1055" key="#Project_Structure" timestamp="1583245193982">
+      <screen x="-842" y="-1440" width="3440" height="1440" />
+    </state>
+    <state x="478" y="-1055" key="#Project_Structure/-842.-1440.3440.1440/0.0.1680.1050@-842.-1440.3440.1440" timestamp="1583245193982" />
+    <state width="397" height="466" key="DebuggerActiveHint" timestamp="1583250379957">
+      <screen x="-842" y="-1440" width="3440" height="1440" />
+    </state>
+    <state width="397" height="466" key="DebuggerActiveHint/-842.-1440.3440.1440/0.0.1680.1050@-842.-1440.3440.1440" timestamp="1583250379957" />
+    <state width="1878" height="381" key="GridCell.Tab.0.bottom" timestamp="1583253504503">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="3398" height="519" key="GridCell.Tab.0.bottom/-842.-1440.3440.1440/0.0.1680.1050@-842.-1440.3440.1440" timestamp="1583250501565" />
+    <state width="3398" height="423" key="GridCell.Tab.0.bottom/-842.-1440.3440.1440/0.23.1680.958@-842.-1440.3440.1440" timestamp="1583247525937" />
+    <state width="1878" height="381" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583253504503" />
+    <state width="1878" height="381" key="GridCell.Tab.0.center" timestamp="1583253504502">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="3398" height="519" key="GridCell.Tab.0.center/-842.-1440.3440.1440/0.0.1680.1050@-842.-1440.3440.1440" timestamp="1583250501563" />
+    <state width="3398" height="423" key="GridCell.Tab.0.center/-842.-1440.3440.1440/0.23.1680.958@-842.-1440.3440.1440" timestamp="1583247525930" />
+    <state width="1878" height="381" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583253504502" />
+    <state width="1878" height="381" key="GridCell.Tab.0.left" timestamp="1583253504502">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="3398" height="519" key="GridCell.Tab.0.left/-842.-1440.3440.1440/0.0.1680.1050@-842.-1440.3440.1440" timestamp="1583250501562" />
+    <state width="3398" height="423" key="GridCell.Tab.0.left/-842.-1440.3440.1440/0.23.1680.958@-842.-1440.3440.1440" timestamp="1583247525929" />
+    <state width="1878" height="381" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583253504502" />
+    <state width="1878" height="381" key="GridCell.Tab.0.right" timestamp="1583253504503">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="3398" height="519" key="GridCell.Tab.0.right/-842.-1440.3440.1440/0.0.1680.1050@-842.-1440.3440.1440" timestamp="1583250501564" />
+    <state width="3398" height="423" key="GridCell.Tab.0.right/-842.-1440.3440.1440/0.23.1680.958@-842.-1440.3440.1440" timestamp="1583247525936" />
+    <state width="1878" height="381" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583253504503" />
+    <state width="1878" height="381" key="GridCell.Tab.1.bottom" timestamp="1583253504505">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="3398" height="519" key="GridCell.Tab.1.bottom/-842.-1440.3440.1440/0.0.1680.1050@-842.-1440.3440.1440" timestamp="1583250497911" />
+    <state width="1878" height="381" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1583253504505" />
+    <state width="1878" height="381" key="GridCell.Tab.1.center" timestamp="1583253504504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="3398" height="519" key="GridCell.Tab.1.center/-842.-1440.3440.1440/0.0.1680.1050@-842.-1440.3440.1440" timestamp="1583250497910" />
+    <state width="1878" height="381" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1583253504504" />
+    <state width="1878" height="381" key="GridCell.Tab.1.left" timestamp="1583253504503">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="3398" height="519" key="GridCell.Tab.1.left/-842.-1440.3440.1440/0.0.1680.1050@-842.-1440.3440.1440" timestamp="1583250497909" />
+    <state width="1878" height="381" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1583253504503" />
+    <state width="1878" height="381" key="GridCell.Tab.1.right" timestamp="1583253504504">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="3398" height="519" key="GridCell.Tab.1.right/-842.-1440.3440.1440/0.0.1680.1050@-842.-1440.3440.1440" timestamp="1583250497911" />
+    <state width="1878" height="381" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1583253504504" />
+    <state x="414" y="-978" key="IDE.errors.dialog" timestamp="1583247134017">
+      <screen x="-842" y="-1440" width="3440" height="1440" />
+    </state>
+    <state x="414" y="-978" key="IDE.errors.dialog/-842.-1440.3440.1440/0.0.1680.1050@-842.-1440.3440.1440" timestamp="1583247134017" />
+    <state x="328" y="106" key="SettingsEditor" timestamp="1583241330830">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="328" y="106" key="SettingsEditor/0.0.1680.1050@0.0.1680.1050" timestamp="1583241330830" />
+    <state x="544" y="-963" width="667" height="486" key="find.popup" timestamp="1583245421651">
+      <screen x="-842" y="-1440" width="3440" height="1440" />
+    </state>
+    <state x="544" y="-963" width="667" height="486" key="find.popup/-842.-1440.3440.1440/0.0.1680.1050@-842.-1440.3440.1440" timestamp="1583245421651" />
+    <state x="622" y="309" key="new project wizard" timestamp="1583265877958">
+      <screen x="0" y="23" width="1920" height="988" />
+    </state>
+    <state x="272" y="-1023" key="new project wizard/-842.-1440.3440.1440/0.23.1680.1027@-842.-1440.3440.1440" timestamp="1583246761460" />
+    <state x="622" y="309" key="new project wizard/0.23.1920.988@0.23.1920.988" timestamp="1583265877958" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/SimpleCalculatorDemoTest.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
